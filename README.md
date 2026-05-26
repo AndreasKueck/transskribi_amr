@@ -1,6 +1,6 @@
 # Transskribi AMR-dosieron per MacroDroid, Termux kaj ffmpeg
 
-Tiu chi GitHub-deponejo entenas por Android-an MacroDroid-makroon, kiu
+Tiu chi GitHub-deponejo entenas por Android-an [MacroDroid](https://www-macrodroid-com.translate.goog/?_x_tr_sl=en&_x_tr_tl=eo&_x_tr_hl=de&_x_tr_pto=wapp)-makroon, kiu
 
 1. estas ekigata per ricevo de `amr`-sondosiero<sup>1</sup>,
 2. per `ffmpeg` konvertas la `amr`-sondosieron en `mp3`-sondosieron,
