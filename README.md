@@ -37,7 +37,7 @@ pkg install ffmpeg
 
 ## Importi la makroon
 
-1. Elshutu makroon [transskribi_amr.macro](https://www.dropbox.com/scl/fi/n4d505zf29ide6i6mnbkc/transskribi_amr.macro?rlkey=ufl7uhmbzm8l9r8gh3dcapgcg&st=nb2gkpm3&dl=0) en vian smartfonon.
+1. Elshutu makroon [transskribi_amr.macro](https://www.dropbox.com/scl/fi/2622d8pfg39ip8pc6qjtq/transskribi_amr.macro?rlkey=ufa0eyy8j65pds97kkcip9i2s&st=jjk691rf&dl=0) en vian smartfonon.
 2. Malfermu apon MacroDroid.
 3. En ghin importu la elshutitan makroo-dosieron `transskribi_amr.macro` trovighantan en via smartfono.
 4. En ago `Shell Script` anstatauigu la shablonan OpenAI-API-shlosilon per valida OpenAI-API-shlosilo kaj konservu chion.
@@ -79,7 +79,7 @@ Iuj Android-versioj povas postuli pliajn permesojn por aliro al dosieroj kaj dos
 
 Se Termux estas instalita ne el la Gugla Plajstoro, sed el FDroid, tiam eble estas uzebla ago `Sendi Intent` anstatau procedi per la menciita interveno permana. Tiu alternativo tamen aktuale ne estas temo de tiu chi GitHub-deponejo.
 
-Ekzistas alia eblo eviti permanan intervenon: Makroo "[alia_eblo_transskribi_amr]( https://www.dropbox.com/scl/fi/ab7q8m6pp6x07sjee77rc/alia_eblo_transskribi_amr.macro?rlkey=22f9vpn1cyqd2lj0efurgwpbs&st=ctmyy5nd&dl=0  )" uzas kvar uzant-interfacajn agojn. Depende de la uzataj smartfono kaj klavaro eble iuj x-y-pozicioj de la klakoj devas esti modifataj. Chiuokaze estas necese doni pliajn permesojn al MacroDroid en la pliaj agordoj Android-aj pri alireblo.
+Ekzistas alia eblo eviti permanan intervenon: Makroo "[alia_eblo_transskribi_amr](https://www.dropbox.com/scl/fi/lxsoa5fjm3gc9hzd0x0s3/alia_eblo_transskribi_amr.macro?rlkey=5i20sewysja4h63hgiw6ckhq1&st=a2b1ll1l&dl=0)" uzas kvar uzant-interfacajn agojn. Depende de la uzataj smartfono kaj klavaro eble iuj x-y-pozicioj de la klakoj devas esti modifataj. Chiuokaze estas necese doni pliajn permesojn al MacroDroid en la pliaj agordoj Android-aj pri alireblo.
 
 ## Permesilo ("License")
 
