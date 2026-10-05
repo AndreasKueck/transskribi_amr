@@ -21,7 +21,7 @@ Antau ol uzi la makroon, certigu, ke jenaj programoj estas instalitaj kaj ghuste
 - Termux
 - `ffmpeg` ene de Termux
 
-Krome la uzanto bezonas validan OpenAI-API-shlosilon por la transskibo. Ghi funkcias per modelo `gpt-4o-transcribe`.
+Krome la uzanto bezonas validan OpenAI-API-shlosilon por la transskibo. Ghi funkcias per modelo `gpt-transcribe`.
 
 ---
 
