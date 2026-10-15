@@ -77,7 +77,7 @@ Tion oni povas fari per makroo `transskribi_mikrofonan_enigon.macro` ([elshuti](
 
 ## Rimarkoj
 
-La konvertado de formato `amr` al formato `mp3` estas oportuna, por povi uzi modelon `gpt-4o-transcribe` kaj por per tiu chi oportune transskribi ankau parolatan tekston Esperantlingvan.
+La konvertado de formato `amr` al formato `mp3` estas oportuna, por povi uzi modelon `gpt-4o-transcribe` au `gpt-transcribe` kaj por per tiu chi oportune transskribi ankau parolatan tekston Esperantlingvan.
 
 Iuj Android-versioj povas postuli pliajn permesojn por aliro al dosieroj kaj dosierujoj.
 
